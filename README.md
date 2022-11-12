@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on GameDev
-- 📫 How to reach me just dm
+- 📫 How to reach me arturbogoratov@gmail.com
 
 <!---
 Alfie213/Alfie213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
