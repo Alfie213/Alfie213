@@ -1,5 +1,3 @@
-Here's the adapted summary for GitHub with an email mention:
-
 **Middle Unity Developer**
 **Contact:** bogoratovunity@gmail.com
 
