@@ -1,4 +1,5 @@
 **Middle Unity Developer**
+
 **Contact:** bogoratovunity@gmail.com
 
 Unity Developer and Software Engineer with a passion for creating immersive experiences and efficient software solutions. Possessing extensive knowledge in game development, performance optimization, and collaborative teamwork.
