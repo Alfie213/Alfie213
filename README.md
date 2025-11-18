@@ -1,4 +1,4 @@
-**Middle Unity Developer**
+**Junior Unity Developer**
 
 **Contact:** bogoratovunity@gmail.com
 
