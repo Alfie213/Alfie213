@@ -1,30 +1,41 @@
-**Junior Unity Developer**
+# Hi there, I'm Artur 👋 
+### Middle Unity Developer | Software Engineer | Technical Instructor
 
-**Contact:** bogoratovunity@gmail.com
+I am a Software Engineer with 3+ years of commercial experience in GameDev, focusing on **robust architecture**, **performance optimization**, and **high-fidelity gameplay systems**. 
 
-Unity Developer and Software Engineer with a passion for creating immersive experiences and efficient software solutions. Possessing extensive knowledge in game development, performance optimization, and collaborative teamwork.
+Beyond coding, I am a **Programming Lecturer**, teaching advanced topics like 3D graphics theory, architectural patterns, and Machine Learning.
 
-**Key Skills:**
+---
 
-*   **Unity & C#:** Proficient in developing game logic, mechanics, and optimization.
-*   **Game Development Experience:** Developed 3D adventure games, open-world RPGs, and sci-fi shooters.
-*   **Performance Optimization:** Experience optimizing for mobile platforms, PC, and ensuring game stability.
-*   **Team Collaboration:** Mentored junior developers, conducted code reviews, and collaborated with artists and game designers.
-*   **Version Control:** Git.
-*   **Additional Skills:** C++, SQL, AR/VR, Adobe Premiere, Adobe After Effects, AI.
+### 🛠 Tech Stack & Expertise
 
-**Work Experience:**
+*   **Game Engines:** Unity (URP, HDRP, Built-in)
+*   **Programming:** C# (Expert), C++, Python, HLSL/Shader Graph
+*   **Architecture:** Dependency Injection (VContainer, Zenject), SOLID, Design Patterns
+*   **Systems:** AI Traffic & Pedestrians, Quest & Dialogue Systems, Save/Load Frameworks, Physics-based Controllers
+*   **Tools & Cloud:** Git, Unity Profiler, AWS, Firebase
+*   **Testing:** Unit Testing (nUnit, xUnit), Manual Testing
 
-*   **Middle Unity Developer** at 1SOFT (2023-2025): Designed and developed core game mechanics for a 3D adventure game, optimized for mobile platforms, and mentored junior developers.
-*   **Junior Unity Developer** at Early Morning Studio (2021-2023): Developed and maintained an open-world RPG, implementing dynamic quest systems and combat mechanics.
-*   **Junior Unity Developer** at S18 (2019-2021): Developed scripting for player controls and enemy AI behaviors in a sci-fi shooter game.
+---
 
-**Education:**
+### 🎓 Academic & Teaching Background
+I enjoy breaking down complex concepts for the next generation of developers. My teaching portfolio includes:
+*   **2D/3D Graphics Theory:** Rendering pipelines, spatial geometry, and shaders.
+*   **Advanced Programming:** OOP, Event-Oriented Programming, and Software Architecture.
+*   **Machine Learning:** Data Science and Computer Vision (CV) using Python.
 
-*   **Informatics (Second Bachelor of Computer Science)**, European Humanities University (2024-2027).
-*   **Software Engineering (First Bachelor of Computer Science)**, Dubna State University (2021-2025).
+---
 
-<!---
-Alfie213/Alfie213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Highlights
+- **Architecture Enthusiast:** I believe in clean, decoupled, and testable code.
+- **Problem Solver:** Experienced in performance profiling and rendering optimization.
+- **Lifelong Learner:** Currently pursuing a second Bachelor's degree in Computer Science.
+
+---
+
+### 📫 Connect with me:
+*   **Email:** [bogoratovunity@gmail.com](mailto:bogoratovunity@gmail.com)
+*   **Location:** Tbilisi, Georgia
+*   **Full Resume:** [📄 Download / View My PDF Resume](https://flowcv.com/resume/rpt8vhm4qwi1)
+
+---
