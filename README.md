@@ -1,7 +1,7 @@
 # Hi there, I'm Artur 👋 
 ### Middle Unity Developer | Software Engineer | Technical Instructor
 
-I am a Software Engineer with 3+ years of commercial experience in GameDev, focusing on **robust architecture**, **performance optimization**, and **high-fidelity gameplay systems**. 
+I am a Software Engineer with 4+ years of commercial experience in GameDev, focusing on **robust architecture**, **performance optimization**, and **high-fidelity gameplay systems**. 
 
 Beyond coding, I am a **Programming Lecturer**, teaching advanced topics like 3D graphics theory, architectural patterns, and Machine Learning.
 
